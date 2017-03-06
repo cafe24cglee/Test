@@ -1,3 +1,4 @@
+echo "commit"
 echo "pull"
 echo "change"
 echo "change"
