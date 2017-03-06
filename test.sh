@@ -1,3 +1,4 @@
+echo "pull"
 echo "change"
 echo "change"
 echo "change master"
