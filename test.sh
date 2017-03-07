@@ -1,4 +1,4 @@
-echo "commit"
+echo "commit222222"
 echo "pull"
 echo "change"
 echo "change"
